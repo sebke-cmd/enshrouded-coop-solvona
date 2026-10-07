@@ -1,0 +1,7 @@
+# Text file normalization
+*.png binary
+
+*.yaml linguist-detectable=false
+*.htm linguist-vendored
+
+*.py linguist-detectable
